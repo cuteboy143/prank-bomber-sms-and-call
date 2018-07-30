@@ -1,0 +1,204 @@
+body {
+color : #545454;
+font-size : 15px;
+font-family : Times;
+background-image : url(images/body.gif);
+background-attachment : fixed;
+max-width : 600px;
+margin : auto;
+}
+a:link, a:active, a:visited {
+color : #1f8ba0;
+text-decoration : none;
+}
+a:hover, a:focus {
+text-decoration : none;
+}
+div {
+background-color : #fff;
+margin : 1px;
+padding : 2px;
+}
+hr {
+margin : 0;
+border-color : #f0f0f0 #fff #fff;
+border-style : solid;
+border-width : 1px;
+}
+.header {
+background-image : url(images/header.gif); 
+color : #000; 
+text-shadow : #9d9d9d 1px 1px 1px; 
+background-color : #207ce5; 
+background-repeat : repeat-x; 
+background-position : 50% top; 
+margin-bottom : 1px; 
+padding : 2px; 
+border-top : 1px solid #3094f1; 
+border-bottom : 1px solid #3094f1; 
+font-weight:bold;
+font-size: 20px;
+text-align:center;
+}
+.links {
+background-image : url(images/menu.gif); 
+background-repeat : repeat-x; 
+background-position : 50% top; 
+margin-top : 1px; 
+margin-bottom : 1px; 
+padding : 2px; 
+border : 1px solid #e1e1e1; 
+}
+.lastnews {
+
+-webkit-border-radius: 0.3em;
+border: 1px solid #ccc;
+padding: 3px;
+background-image:url(images/menu.gif);
+background-repeat : repeat-x;
+}
+.title { 
+text-shadow : #9d9d9d 1px 1px 1px; 
+background-color : #e4f4fd; 
+background-image : url(images/gmenu.gif); 
+background-repeat : repeat-x; 
+background-position : 50% top; 
+margin-top : 1px; 
+margin-bottom : 1px; 
+padding : 2px; 
+border : 1px solid #91d8ec; 
+text-align:left;
+font-weight:bold;
+}
+
+.title2 {
+color : #ed8400; 
+text-shadow : #9d9d9d 1px 1px 1px;  
+background-color : #fff0dd; 
+background-image : url(images/rmenu.gif); 
+background-repeat : repeat-x; 
+background-position : 50% top; 
+margin-top : 1px; 
+margin-bottom : 1px; 
+padding : 2px; 
+border : 1px solid #ffc175; 
+font-weight:bold;
+text-align:left;
+}
+.content {
+background-color : #f6f6f6; 
+margin-top : 1px; 
+margin-bottom : 1px; 
+padding : 2px; 
+border : 1px solid #dfdfdf; 
+}
+.content2 {
+background-color : #fdfdfd; 
+margin-top : 1px; 
+margin-bottom : 1px; 
+padding : 2px; 
+border : 1px solid #e7e7e7; 
+}
+.content2 a:link, .content2 a:visited {
+color : #62931d;
+}
+.footer {
+color : #000; 
+text-shadow : #9d9d9d 1px 1px 1px; 
+background-color : #ff930c; 
+background-image : url(images/footer.gif); 
+background-repeat : repeat-x; 
+background-position : 50% top; 
+margin-top : 1px; 
+margin-bottom : 1px; 
+padding : 2px; 
+border-top : 1px solid #ff9511; 
+border-bottom : 1px solid #ff9511; 
+text-align:center;
+}
+.footer a{
+color:white;
+}
+.vs {
+text-align : center;
+}
+span {
+color : blue;
+}
+.zag {
+font-size : large;
+}
+.green {
+color:green;
+}
+.red {
+color:red;
+}
+
+.download {
+color : #000; 
+text-shadow : #9d9d9d 1px 1px 1px; 
+background-color : #bfbfbf; 
+background-image : url(images/bmenu.gif); 
+background-repeat : repeat-x; 
+background-position : 50% top; 
+margin-top : 1px; 
+margin-bottom : 1px; 
+padding : 2px; 
+border : 1px solid #c9c9c9; 
+text-align:left;
+}
+.pages {
+text-shadow : #9d9d9d 1px 1px 1px;
+text-align:center;
+-webkit-border-radius: 0.3em;
+border-radius: 0.3em;
+padding: 3px;
+background-color : #eeeeec; 
+background-image : url(images/tmn.gif); 
+background-repeat : repeat-x; 
+background-position : 50% top; 
+border-top : 1px solid #dddcdb; 
+border-bottom : 1px solid #dddcdb; 
+}
+.submit {
+text-align:left;
+-webkit-border-radius: 0.3em;
+border-radius: 0.3em;
+padding: 3px;
+background-image: url("images/gmenu.gif");
+background-repeat : repeat-x; 
+background-position : 50% top; 
+background-color : #e4f4fd; 
+}
+.sort {
+text-align:left;
+-webkit-border-radius: 0.3em;
+border: 1px solid #ccc;
+padding: 3px;
+background-image:url(images/menu.gif);
+background-repeat : repeat-x;
+}
+.icon {
+text-align:left;
+-webkit-border-radius: 0.3em;
+border: 1px solid #ccc;
+padding: 3px;
+background-image:url(images/menu.gif);
+background-repeat : repeat-x;
+}
+.search {
+text-align:left;
+-webkit-border-radius: 0.3em;
+border: 1px solid #ccc;
+padding: 3px;
+background-image:url(images/menu.gif);
+background-repeat : repeat-x;
+}
+.new {
+color:red;
+}
+img {
+vertical-align:center;
+
+}
