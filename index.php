@@ -46,7 +46,8 @@ if(isset($_POST['submitted'])) {
 	} elseif(empty($errors)) {
 		
 		if($selected == 'undefined') {
-			
+			*// (Add $protect  number option
+  
 			//if users no selected operator
 			$errors[] = '<font color="red">You must selected operator!</font>';
 		} elseif($selected == 'jdid') {
